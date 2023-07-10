@@ -1,0 +1,12 @@
+# IDE config files
+.idea
+.vscode
+
+# Temporary files
+.DS_Store
+
+# Node.js modules and dependencies
+node_modules
+
+# Build files
+dist
